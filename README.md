@@ -66,9 +66,9 @@ I’m a passionate **4th-year Software Engineering student** at SLIIT with hands
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pasan-FDo&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-FDo&layout=compact&theme=radical&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pasan-FDo&theme=radical&hide_border=true)
 
 ---
 
